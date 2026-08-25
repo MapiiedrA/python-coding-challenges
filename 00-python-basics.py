@@ -1,3 +1,15 @@
+"""
+* EXERCISE:
+ * - Create a comment in the code and include the URL of the official website
+ *   for your chosen programming language.
+ * - Demonstrate the different comment syntaxes available in the language
+ *   (single-line, multi-line, etc.).
+ * - Create a variable (and a constant if supported by the language).
+ * - Create variables representing all primitive data types in the language
+ *   (strings, integers, booleans, etc.).
+ * - Print the following text to the terminal: "Hello, [name of your language]!"
+"""
+
 # https://python.org/
 # this is a commentary on a line
 """
