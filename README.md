@@ -42,4 +42,4 @@ The following index tracks my progress through the core Python roadmap. It highl
 * **#12** - `JSON & XML Handling` (`#12-JSON-AND-XML-HANDLING` / `#12 JSON Y XML.py`)
 * **#13** - `Unit Testing` (`#13-UNIT-TESTING` / `#13 PRUEBAS UNITARIAS.py`)
 * **#14** - `Dates & Time Handling` (`#14-DATES-AND-TIME-HANDLING` / `#14 FECHAS.py`)
-* **#15** - Asynchronous Programming (`#15-ASYNC-PROGRAMMING` / `#15 ASINCRONÍA.py`)
+* **#15** - `Asynchronous Programming` (`#15-ASYNC-PROGRAMMING` / `#15 ASINCRONÍA.py`)
